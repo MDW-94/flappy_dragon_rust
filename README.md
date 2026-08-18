@@ -2,7 +2,7 @@
 
 ![alt text](<Screenshot 2026-08-18 at 19.40.41.png>)
 
-A simple game built from the <i>Hands-on Rust</i> book by Herbet Wolverson. The game requires the player to press `SPACEBAR` in order to keep the `@` from falling off the screen.
+A simple game built from the <i>Hands-on Rust</i> book by Herbert Wolverson. The game requires the player to press `SPACEBAR` in order to keep the `@` from falling off the screen.
 
 Obstacles start to appear and the player must fly through the gap between them in order to score a point.
 
